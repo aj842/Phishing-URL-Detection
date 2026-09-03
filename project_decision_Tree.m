@@ -1,3 +1,4 @@
+//prac github
 D = csvread('Complete_dataset_classes_relax.csv',2,0);
 [row,col] = size(D);
 
